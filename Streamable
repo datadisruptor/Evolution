@@ -1,4 +1,4 @@
-script_key = getgenv().Evolution.Options.Key;
+script_key = getgenv().Evolution.Options.Stealth_Mode.Key;
 
 ([[
                    This script has been licensed using Luarmor
