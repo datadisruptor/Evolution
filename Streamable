@@ -1,4 +1,3 @@
-script_key = getgenv().evolution.Key
 
 ([[
                    This script has been licensed using Luarmor
