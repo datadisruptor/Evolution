@@ -1,4 +1,4 @@
-script_key = getgenv().Evolution.Options.Key;
+
 
 ([[
                    This script has been licensed using Luarmor
