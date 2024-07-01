@@ -1509,7 +1509,7 @@ local function GetArgs()
     elseif game.PlaceId == 1590803567 then
         return "MousePosDEBUG"
     else
-        return "UpdateMousePos"
+        return "UpdateMousePosI"
     end
 end
 
