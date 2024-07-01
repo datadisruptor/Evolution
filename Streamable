@@ -1493,7 +1493,7 @@ RunService.Heartbeat:Connect(function()
 end)
 
 local MouseArgs = {
-    "UpdateMousePos",
+    "UpdateMousePosI",
     "MousePos",
     "MOUSE",
     "MousePosDEBUG",
@@ -1501,7 +1501,7 @@ local MouseArgs = {
 
 local function GetArgs()
     if game.PlaceId == 2788229376 or game.PlaceId == 4106313503 then
-        return "UpdateMousePos"
+        return "UpdateMousePosI"
     elseif game.PlaceId == 5602055394 or game.PlaceId == 7951883376 then
         return "MousePos"
     elseif game.PlaceId == 10100958808 or game.PlaceId == 12645617354 or game.PlaceId == 14171242539 or game.PlaceId == 14412436145 or game.PlaceId == 14412355918 or game.PlaceId == 14413720089 or game.PlaceId == 14413712255 or game.PlaceId == 14412601883 then
